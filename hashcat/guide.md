@@ -8,6 +8,7 @@ hash mode:
 attack type:
 	how to perform the attack dictionary attack or bruteforce attack 
 
+```
 Built-in charsets
        ?l = abcdefghijklmnopqrstuvwxyz
        ?u = ABCDEFGHIJKLMNOPQRSTUVWXYZ
@@ -17,7 +18,9 @@ Built-in charsets
        ?s =  !"#$%&'()*+,-./:;<=>?@[]^_`{|}~
        ?a = ?l?u?d?s
        ?b = 0x00 - 0xff
+```
 
+```
 Attack mode
        0 = Straight
        1 = Combination
@@ -148,7 +151,7 @@ Specific hash type
        3711 = Mediawiki B type
        3721 = WebEdition CMS
        7600 = Redmine Project Management Web App
-
+```
 
 ### examples 
 
