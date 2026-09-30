@@ -32,7 +32,7 @@ Hydra (https://github.com/vanhauser-thc/thc-hydra) starting at 2026-09-22 10:16:
 [21][ftp] host: 192.168.1.3   login: msfadmin   password: msfadmin
 [STATUS] attack finished for 192.168.1.3 (valid pair found)
 1 of 1 target successfully completed, 1 valid password found
-Hydra (https://github.com/vanhauser-thc/thc-hydra) finished at 2026-09-22 10:17:41
+Hydra (https://github.com/vanhauser-thc/thc-hydra) finished at 2026-09-22 10:17:43
 ```
 
 after setup mysql creating the test user and granting all privileges to that user 
